@@ -1,0 +1,3 @@
+from scripts.parse_websites_parameters import parse_websites_parameters
+
+parse_websites_parameters()

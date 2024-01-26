@@ -1,0 +1,19 @@
+{
+  "francetvinfo.fr": {
+    "title_tag": {
+      "tag": "class",
+      "name": "c-title"
+    },
+    "content_tag": {
+      "tag": "class",
+      "name": "c-body",
+      "to_remove": [
+        {
+          "tag": "class",
+          "name": "media-embed"
+        },
+        { "tag": "class", "name": "ftvi_content_quote" }
+      ]
+    }
+  }
+}
